@@ -1,6 +1,6 @@
 # Lerntagebuch
 ## Mit beispiel DoME
-### 1.Video:
+
 - Am Anfang werden Klassen gezeigt mit verschiedenen Methoden
 - es gibt viele codeduplikate in den klassen darum wird vererbung eingesetzt-generalisieren
  ### vererbung erklärt- neu gelernt-wiederholt:
